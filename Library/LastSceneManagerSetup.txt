@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/stanze/Scena1.unity
+- path: "Assets/NuovoMen\xF9.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
