@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3961741859390690276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3961741859390690278}
+  - component: {fileID: 3961741859390690279}
+  m_Layer: 0
+  m_Name: Path1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3961741859390690278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3961741859390690276}
+  m_LocalRotation: {x: 0.082696795, y: 0.032939564, z: 0.01837801, w: 0.99586076}
+  m_LocalPosition: {x: -4.3, y: 0.98, z: -217.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3961741859390690279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3961741859390690276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a200b19ca1a9685429ed7e043c28e904, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Resolution: 20
+  m_Appearance:
+    pathColor: {r: 0, g: 1, b: 0, a: 1}
+    inactivePathColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    width: 0.2
+  m_Looped: 0
+  m_Waypoints:
+  - position: {x: 0.5945473, y: -0.12361914, z: -0.8494717}
+    roll: 0
+  - position: {x: -1.4558629, y: 7.9656944, z: 47.132305}
+    roll: 0
+  - position: {x: -5.7555156, y: 16.125277, z: 94.95925}
+    roll: 0
+  - position: {x: -8.841571, y: 24.246952, z: 142.86972}
+    roll: 0
+  - position: {x: -11.004381, y: 32.33977, z: 190.84377}
+    roll: 0
+  - position: {x: -14.480958, y: 40.47364, z: 238.72737}
+    roll: 0
+  - position: {x: -17.620588, y: 48.596992, z: 286.63416}
+    roll: 0
+  - position: {x: -21.165047, y: 56.732983, z: 334.5131}
+    roll: 0
+  - position: {x: -23.96536, y: 57.35367, z: 379.1778}
+    roll: 90
+  - position: {x: -59.518135, y: 58.717087, z: 383.89777}
+    roll: 90
+  - position: {x: -95.07091, y: 60.080505, z: 388.61774}
+    roll: 90
