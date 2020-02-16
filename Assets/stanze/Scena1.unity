@@ -2505,8 +2505,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1104198777}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.013357092, y: -0.0054541132, z: 0.00007285868, w: 0.99989593}
   m_LocalPosition: {x: -3.9963813, y: -1.2429099, z: 84.12315}
+=======
+  m_LocalRotation: {x: 0.0005746613, y: 0.011627634, z: -0.0000066824036, w: 0.9999322}
+  m_LocalPosition: {x: -4.919956, y: -1.9340996, z: -208.19598}
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
   m_LocalRotation: {x: 0.0005746613, y: 0.011627634, z: -0.0000066824036, w: 0.9999322}
   m_LocalPosition: {x: -4.919956, y: -1.9340996, z: -208.19598}
@@ -3293,7 +3298,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -3.9963813
+=======
+      value: -4.919956
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: -4.919956
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
@@ -3302,7 +3311,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -1.2429099
+=======
+      value: -1.9340996
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: -1.9340996
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
@@ -3311,7 +3324,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 84.12315
+=======
+      value: -208.19598
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: -208.19598
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
@@ -3320,7 +3337,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.013357092
+=======
+      value: 0.0005746613
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: 0.0005746613
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
@@ -3329,7 +3350,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.y
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: -0.0054541132
+=======
+      value: 0.011627634
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: 0.011627634
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
@@ -3338,7 +3363,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.00007285868
+=======
+      value: -0.0000066824036
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: -0.0000066824036
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
@@ -3347,7 +3376,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.w
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.99989593
+=======
+      value: 0.9999322
+>>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
 =======
       value: 0.9999322
 >>>>>>> 8494ba83b03c74188db8a5620b543fc2991dfe2b
